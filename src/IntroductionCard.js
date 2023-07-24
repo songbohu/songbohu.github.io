@@ -2,7 +2,7 @@ import React from 'react';
 import './index.css';
 import { MailOutlined, GithubOutlined, LinkedinOutlined, GoogleOutlined} from '@ant-design/icons';
 import {Row,Col, Card} from 'antd';
-import MyPhoto from "./media/me_4.jpg"
+import MyPhoto from "./media/me.jpg"
 
 class IntroductionCard extends React.Component {
 
