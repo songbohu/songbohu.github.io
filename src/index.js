@@ -1,9 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Homepage from './Homepage';
+import HomepageDesktop from './HomepageDesktop';
+import HomepageMobile from './HomepageMobile';
 import reportWebVitals from './reportWebVitals';
 import {HashRouter, Route, Routes} from 'react-router-dom'
+import Homepage from "./Homepage";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -11,9 +13,10 @@ root.render(
     <HashRouter>
         <Routes>
             <Route path="/" element={<Homepage />}/>
+            <Route path="/desktop" element={<HomepageDesktop />}/>
+            <Route path="/mobile" element={<HomepageMobile />}/>
         </Routes>
     </HashRouter>
-
 );
 
 // If you want to start measuring performance in your app, pass a function
