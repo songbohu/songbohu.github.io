@@ -32,7 +32,7 @@ class ServiceCard extends React.Component {
                     <List.Item>
                         <b>Journal reviewing: </b>
                         <br/>
-                        IEEE/ACM TASLP
+                        IEEE/ACM TASLP.
                     </List.Item>
                 </List>
             </Card>
