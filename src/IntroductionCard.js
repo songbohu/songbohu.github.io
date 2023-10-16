@@ -20,12 +20,12 @@ class IntroductionCard extends React.Component {
         return(
             <Card
                 style={{width: '100%'}}
-                cover={
-                    <img
-                        alt="example"
-                        src={MyPhoto}
-                    />
-                }
+                // cover={
+                //     <img
+                //         alt="example"
+                //         src={MyPhoto}
+                //     />
+                // }
                 actions={[
                     <MailOutlined
                         onClick={()=> {
@@ -55,7 +55,7 @@ class IntroductionCard extends React.Component {
                                 Songbo Hu 胡淞博
                             </h3>
 
-                            Hi there! I am a second year PhD student at the <a href="https://ltl.mmll.cam.ac.uk">Language Technology Lab</a>, <a href="https://www.cam.ac.uk">Cambridge</a>.
+                            Hi there! I am a third year PhD student at the <a href="https://ltl.mmll.cam.ac.uk">Language Technology Lab</a>, <a href="https://www.cam.ac.uk">Cambridge</a>.
 
                             I am supervised by Prof. <a href="https://sites.google.com/site/annakorhonen/">Anna Korhonen </a> and Dr. <a href="https://sites.google.com/site/ivanvulic/">Ivan Vulić</a>.
 

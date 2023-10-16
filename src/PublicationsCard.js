@@ -35,6 +35,11 @@ class PublicationsCard extends React.Component {
                         </div>
                     }
                 >
+
+                    <List.Item>
+                        <b>Songbo Hu</b>, Han Zhou, Zhangdie Yuan, Milan Gritta, Guchun Zhang, Ignacio Iacobacci, Anna Korhonen, and Ivan Vulić. <a style={{"textDecoration": "underline"}}>A Systematic Study of Performance Disparities in Multilingual Task-Oriented Dialogue Systems.</a>. EMNLP, Dec 2023, to appear.
+                    </List.Item>
+
                     <List.Item>
                         <b>Songbo Hu</b>,* Han Zhou,* Mete Hergul, Milan Gritta, Guchun Zhang, Ignacio Iacobacci, Ivan Vulić,** and Anna Korhonen.** <a href="https://arxiv.org/abs/2307.14031" style={{"textDecoration": "underline"}}>Multi3WOZ: A Multilingual, Multi-Domain, Multi-Parallel Dataset for Training and Evaluating Culturally Adapted Task-Oriented Dialog Systems</a>. TACL, to appear.
                     </List.Item>
