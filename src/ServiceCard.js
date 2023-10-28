@@ -30,9 +30,14 @@ class ServiceCard extends React.Component {
                         ACL (2023), EACL (2023), EMNLP (2022 - 2023), NLP4ConvAI (2022 - 2023).
                     </List.Item>
                     <List.Item>
-                        <b>Journal reviewing: </b>
+                        <b>Journal reviewing:</b>
                         <br/>
                         IEEE/ACM TASLP.
+                    </List.Item>
+                    <List.Item>
+                        <b>Outreach:</b>
+                        <br/>
+                        I am happy to provide guidance and support to young students, such as high school or undergraduate students, embarking on your research projects. Feel free to email me about your research proposals.
                     </List.Item>
                 </List>
             </Card>
