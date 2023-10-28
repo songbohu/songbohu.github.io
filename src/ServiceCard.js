@@ -37,7 +37,7 @@ class ServiceCard extends React.Component {
                     <List.Item>
                         <b>Outreach:</b>
                         <br/>
-                        I am happy to provide guidance and support to young students, such as high school or undergraduate students, embarking on your research projects. Feel free to email me about your research proposals.
+                        I am happy to provide guidance to young students, such as high school or undergraduate students, embarking on your research projects. Feel free to email me for a discussion.
                     </List.Item>
                 </List>
             </Card>
