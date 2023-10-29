@@ -34,11 +34,11 @@ class ServiceCard extends React.Component {
                         <br/>
                         IEEE/ACM TASLP.
                     </List.Item>
-                    <List.Item>
-                        <b>Outreach:</b>
-                        <br/>
-                        I am happy to provide guidance to young students, such as high school or undergraduate students, embarking on your research projects. Feel free to email me for a chat.
-                    </List.Item>
+                    {/*<List.Item>*/}
+                    {/*    <b>Outreach:</b>*/}
+                    {/*    <br/>*/}
+                    {/*    I am happy to provide guidance to young students, such as high school or undergraduate students, embarking on your research projects. Feel free to email me for a chat.*/}
+                    {/*</List.Item>*/}
                 </List>
             </Card>
         )
