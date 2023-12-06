@@ -9,6 +9,7 @@ import HighlightsCard from "./HighlightsCard";
 import PublicationsCard from "./PublicationsCard";
 const { Header, Content, Footer } = Layout;
 
+
 class HomepageDesktop extends React.Component {
 
     constructor(props) {
