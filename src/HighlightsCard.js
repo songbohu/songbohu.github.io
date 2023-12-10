@@ -25,7 +25,7 @@ class HighlightsCard extends React.Component {
                     </h3>}
                 >
                     <List.Item>
-                        [December 4th, 2023] I am in Singapore 🇸🇬, for EMNLP 2023! Let's chat at poster session 1 (11am Friday) and poster session 4 (9am Saturday)!
+                        [December 4th, 2023] I am in Singapore 🇸🇬, for EMNLP 2023!
                     </List.Item>
                     <List.Item>
                         [July 24th, 2023] We release <a href="https://github.com/cambridgeltl/multi3woz">Multi3WOZ</a>, a large-scale multilingual dataset for task-oriented dialogue systems.
