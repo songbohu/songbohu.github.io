@@ -25,6 +25,9 @@ class HighlightsCard extends React.Component {
                     </h3>}
                 >
                     <List.Item>
+                        [January 15th, 2024] We release <a href="https://github.com/cambridgeltl/e2e_tod_toolkit">DIALIGHT</a>, a toolkit for developing and evaluating multilingual task-oriented dialogue systems!
+                    </List.Item>
+                    <List.Item>
                         [December 4th, 2023] I am in Singapore 🇸🇬, for EMNLP 2023!
                     </List.Item>
                     <List.Item>
