@@ -36,6 +36,11 @@ class PublicationsCard extends React.Component {
                     }
                 >
 
+
+                    <List.Item>
+                        <b>Songbo Hu</b>, Ivan Vulić, Fangyu Liu, and Anna Korhonen. <a href="https://arxiv.org/abs/2211.03648" style={{"textDecoration": "underline"}}>Reranking Overgenerated Responses for End-to-End Task-Oriented Dialogue Systems</a>. LREC-COLING, to appear, May 2024.
+                    </List.Item>
+
                     <List.Item>
                         <b>Songbo Hu</b>, Xiaobin Wang, Zhangdie Yuan, Anna Korhonen, and Ivan Vulić. <a href="https://arxiv.org/abs/2401.02208" style={{"textDecoration": "underline"}}>DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models</a>. CoRR, abs/2401.02208, Jan 2024.
                     </List.Item>
@@ -50,10 +55,6 @@ class PublicationsCard extends React.Component {
 
                     <List.Item>
                         Zhangdie Yuan,* <b>Songbo Hu</b>,* Ivan Vulić, Anna Korhonen, and Zaiqiao Meng. <a href="https://aclanthology.org/2023.eacl-main.106/" style={{"textDecoration": "underline"}}>Can Pretrained Language Models (Yet) Reason Deductively?</a> EACL, May 2023.
-                    </List.Item>
-
-                    <List.Item>
-                        <b>Songbo Hu</b>, Ivan Vulić, Fangyu Liu, and Anna Korhonen. <a href="https://arxiv.org/abs/2211.03648" style={{"textDecoration": "underline"}}>Reranking Overgenerated Responses for End-to-End Task-Oriented Dialogue Systems</a>. CoRR, abs/2211.03648, Nov 2022.
                     </List.Item>
 
                     <List.Item>
