@@ -117,7 +117,7 @@ class HomepageDesktop extends React.Component {
 
                 </Row>
             </Content>
-            <Footer style={{ textAlign: 'center', backgroundColor:'#F5F5F5FF' }}>Songbo Hu ©2023</Footer>
+            <Footer style={{ textAlign: 'center', backgroundColor:'#F5F5F5FF' }}>Songbo Hu ©2024</Footer>
         </Layout>
         )
 
