@@ -38,11 +38,11 @@ class PublicationsCard extends React.Component {
 
 
                     <List.Item>
-                        <b>Songbo Hu</b>, Xiaobin Wang, Zhangdie Yuan, Anna Korhonen, and Ivan Vulić. <a href="https://arxiv.org/abs/2401.02208" style={{"textDecoration": "underline"}}>DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models</a>. NAACL-HLT System Demonstrations, to appear, June 2024.
+                        <b>Songbo Hu</b>, Xiaobin Wang, Zhangdie Yuan, Anna Korhonen, and Ivan Vulić. <a href="https://arxiv.org/abs/2401.02208" style={{"textDecoration": "underline"}}>DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models</a>. NAACL-HLT System Demonstrations, June 2024.
                     </List.Item>
 
                     <List.Item>
-                        <b>Songbo Hu</b>, Ivan Vulić, Fangyu Liu, and Anna Korhonen. <a href="https://arxiv.org/abs/2211.03648" style={{"textDecoration": "underline"}}>Reranking Overgenerated Responses for End-to-End Task-Oriented Dialogue Systems</a>. LREC-COLING, to appear, May 2024.
+                        <b>Songbo Hu</b>, Ivan Vulić, Fangyu Liu, and Anna Korhonen. <a href="https://arxiv.org/abs/2211.03648" style={{"textDecoration": "underline"}}>Reranking Overgenerated Responses for End-to-End Task-Oriented Dialogue Systems</a>. LREC-COLING, May 2024.
                     </List.Item>
 
 
