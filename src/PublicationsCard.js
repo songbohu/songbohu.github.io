@@ -37,6 +37,11 @@ class PublicationsCard extends React.Component {
                 >
 
 
+
+                    <List.Item>
+                        <b>Songbo Hu</b>,* Abigail Oppong,* Ebele Mogo, Charlotte Collins, Giulia Occhini, Anna Barford, and Anna Korhonen. <a href="https://preprints.jmir.org/preprint/68720/accepted" style={{"textDecoration": "underline"}}>Natural Language Processing Technologies for Public Health in Africa: A Scoping Review</a>. JMIR, Forthcoming/in press.
+                    </List.Item>
+
                     <List.Item>
                         <b>Songbo Hu</b>, Xiaobin Wang, Zhangdie Yuan, Anna Korhonen, and Ivan Vulić. <a href="https://arxiv.org/abs/2401.02208" style={{"textDecoration": "underline"}}>DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models</a>. NAACL-HLT System Demonstrations, June 2024.
                     </List.Item>
@@ -51,7 +56,7 @@ class PublicationsCard extends React.Component {
                     </List.Item>
 
                     <List.Item>
-                        <b>Songbo Hu</b>,* Han Zhou,* Mete Hergul, Milan Gritta, Guchun Zhang, Ignacio Iacobacci, Ivan Vulić,** and Anna Korhonen.** <a href="https://aclanthology.org/2023.tacl-1.79/" style={{"textDecoration": "underline"}}>Multi3WOZ: A Multilingual, Multi-Domain, Multi-Parallel Dataset for Training and Evaluating Culturally Adapted Task-Oriented Dialog Systems</a>. TACL 2023.
+                        <b>Songbo Hu</b>,* Han Zhou,* Mete Hergul, Milan Gritta, Guchun Zhang, Ignacio Iacobacci, Ivan Vulić,** and Anna Korhonen.** <a href="https://aclanthology.org/2023.tacl-1.79/" style={{"textDecoration": "underline"}}>Multi3WOZ: A Multilingual, Multi-Domain, Multi-Parallel Dataset for Training and Evaluating Culturally Adapted Task-Oriented Dialog Systems</a>. TACL, 2023.
                     </List.Item>
 
                     <List.Item>
