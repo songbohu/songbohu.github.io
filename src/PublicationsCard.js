@@ -39,15 +39,23 @@ class PublicationsCard extends React.Component {
 
 
                     <List.Item>
-                        <b>Songbo Hu</b>,* Abigail Oppong,* Ebele Mogo, Charlotte Collins, Giulia Occhini, Anna Barford, and Anna Korhonen. <a href="https://preprints.jmir.org/preprint/68720/accepted" style={{"textDecoration": "underline"}}>Natural Language Processing Technologies for Public Health in Africa: A Scoping Review</a>. JMIR, Forthcoming/in press.
+                        <b>Songbo Hu</b>,* Abigail Oppong,* Ebele Mogo, Charlotte Collins, Giulia Occhini, Anna Barford, and Anna Korhonen. <a href="https://www.jmir.org/2025/1/e68720" style={{"textDecoration": "underline"}}>Natural Language Processing Technologies for Public Health in Africa: Scoping Review</a>. JMIR, 2025.
                     </List.Item>
 
                     <List.Item>
-                        <b>Songbo Hu</b>, Xiaobin Wang, Zhangdie Yuan, Anna Korhonen, and Ivan Vulić. <a href="https://arxiv.org/abs/2401.02208" style={{"textDecoration": "underline"}}>DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models</a>. NAACL-HLT System Demonstrations, June 2024.
+                        Petre Breazu, Miriam Schirmer, <b>Songbo Hu</b>, and Napoleon Katsos. <a href="" style={{"textDecoration": "underline"}}>Large Language Models and the Challenge of Analyzing Discriminatory Discourse: Human-AI Synergy in Researching Hate Speech on Social Media</a>. Journal of Multicultural Discourses, Forthcoming/in press.
                     </List.Item>
 
                     <List.Item>
-                        <b>Songbo Hu</b>, Ivan Vulić, Fangyu Liu, and Anna Korhonen. <a href="https://arxiv.org/abs/2211.03648" style={{"textDecoration": "underline"}}>Reranking Overgenerated Responses for End-to-End Task-Oriented Dialogue Systems</a>. LREC-COLING, May 2024.
+                        Teemu Vahtola, <b>Songbo Hu</b>, Mathias Creutz, Ivan Vulić, Anna Korhonen, and Jörg Tiedemann. <a href="" style={{"textDecoration": "underline"}}>Analyzing the Effect of Linguistic Instructions on Paraphrase Generation</a>. NoDaLiDa-Baltic-HLT, March 2025.
+                    </List.Item>
+
+                    <List.Item>
+                        <b>Songbo Hu</b>, Xiaobin Wang, Zhangdie Yuan, Anna Korhonen, and Ivan Vulić. <a href="https://aclanthology.org/2024.naacl-demo.4/" style={{"textDecoration": "underline"}}>DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models</a>. NAACL-HLT System Demonstrations, June 2024.
+                    </List.Item>
+
+                    <List.Item>
+                        <b>Songbo Hu</b>, Ivan Vulić, Fangyu Liu, and Anna Korhonen. <a href="https://aclanthology.org/2024.lrec-main.1219/" style={{"textDecoration": "underline"}}>Reranking Overgenerated Responses for End-to-End Task-Oriented Dialogue Systems</a>. LREC-COLING, May 2024.
                     </List.Item>
 
 
