@@ -25,6 +25,10 @@ class HighlightsCard extends React.Component {
                     </h3>}
                 >
                     <List.Item>
+                        [March 5th, 2025] We published <a href="https://www.jmir.org/2025/1/e68720">a scoping review</a> on NLP for public health in Africa. This review followed a publicly available <a href="https://www.medrxiv.org/content/10.1101/2024.07.02.24309815v1">protocol</a>.
+
+                    </List.Item>
+                    <List.Item>
                         [January 15th, 2024] We release <a href="https://github.com/cambridgeltl/e2e_tod_toolkit">DIALIGHT</a>, a toolkit for developing and evaluating multilingual task-oriented dialogue systems!
                     </List.Item>
                     <List.Item>
