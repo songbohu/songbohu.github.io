@@ -43,7 +43,7 @@ class PublicationsCard extends React.Component {
                     </List.Item>
 
                     <List.Item>
-                        Petre Breazu, Miriam Schirmer, <b>Songbo Hu</b>, and Napoleon Katsos. <a href="" style={{"textDecoration": "underline"}}>Large Language Models and the Challenge of Analyzing Discriminatory Discourse: Human-AI Synergy in Researching Hate Speech on Social Media</a>. Journal of Multicultural Discourses, Forthcoming/in press.
+                        Petre Breazu, Miriam Schirmer, <b>Songbo Hu</b>, and Napoleon Katsos. <a href="https://www.tandfonline.com/doi/full/10.1080/17447143.2025.2476967" style={{"textDecoration": "underline"}}>Large Language Models and the Challenge of Analyzing Discriminatory Discourse: Human-AI Synergy in Researching Hate Speech on Social Media</a>. Journal of Multicultural Discourses, 2025.
                     </List.Item>
 
                     <List.Item>
