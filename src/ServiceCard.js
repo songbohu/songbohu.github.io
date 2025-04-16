@@ -27,7 +27,7 @@ class ServiceCard extends React.Component {
                     <List.Item>
                         <b>Conference and workshop reviewing:</b>
                         <br/>
-                        ACL (2023), EACL (2023), EMNLP (2022 - 2023), NLP4ConvAI (2022 - 2023), SCI-CHAT (2024).
+                        ACL (2023), ARR, EACL (2023), EMNLP (2022 - 2023), NLP4ConvAI (2022 - 2023), SCI-CHAT (2024).
                     </List.Item>
                     <List.Item>
                         <b>Journal reviewing:</b>

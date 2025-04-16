@@ -47,7 +47,7 @@ class PublicationsCard extends React.Component {
                     </List.Item>
 
                     <List.Item>
-                        Teemu Vahtola, <b>Songbo Hu</b>, Mathias Creutz, Ivan Vulić, Anna Korhonen, and Jörg Tiedemann. <a href="" style={{"textDecoration": "underline"}}>Analyzing the Effect of Linguistic Instructions on Paraphrase Generation</a>. NoDaLiDa-Baltic-HLT, March 2025.
+                        Teemu Vahtola, <b>Songbo Hu</b>, Mathias Creutz, Ivan Vulić, Anna Korhonen, and Jörg Tiedemann. <a href="https://aclanthology.org/2025.nodalida-1.75/" style={{"textDecoration": "underline"}}>Analyzing the Effect of Linguistic Instructions on Paraphrase Generation</a>. NoDaLiDa-Baltic-HLT, March 2025.
                     </List.Item>
 
                     <List.Item>
