@@ -39,6 +39,11 @@ class PublicationsCard extends React.Component {
 
 
                     <List.Item>
+                        <b>Songbo Hu</b>, Ivan Vulić, and Anna Korhonen. <a href="" style={{"textDecoration": "underline"}}>Quantifying Language Disparities in Multilingual Large Language Models</a>. EMNLP, November 2025.
+                    </List.Item>
+
+
+                    <List.Item>
                         <b>Songbo Hu</b>,* Abigail Oppong,* Ebele Mogo, Charlotte Collins, Giulia Occhini, Anna Barford, and Anna Korhonen. <a href="https://www.jmir.org/2025/1/e68720" style={{"textDecoration": "underline"}}>Natural Language Processing Technologies for Public Health in Africa: Scoping Review</a>. JMIR, 2025.
                     </List.Item>
 
