@@ -42,7 +42,7 @@ class EducationCard extends React.Component {
                         <br/>
                         BSc in Artificial Intelligence and Computer Science, 2016 - 2020.
                         <br/>
-                        Top performance in degree.
+                        Ranked 1st in class.
                     </List.Item>
                 </List>
             </Card>

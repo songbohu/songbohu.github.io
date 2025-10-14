@@ -4,7 +4,6 @@ import { Breadcrumb, Layout, Row,Col} from 'antd';
 
 import IntroductionCard from "./IntroductionCard"
 import EducationCard from "./EducationCard";
-import ServiceCard from "./ServiceCard";
 import HighlightsCard from "./HighlightsCard";
 import PublicationsCard from "./PublicationsCard";
 const { Header, Content, Footer } = Layout;
@@ -82,10 +81,6 @@ class HomepageDesktop extends React.Component {
                             </h3>
                         </Row>
 
-                        <Row>
-                            <ServiceCard/>
-                        </Row>
-
                     </Col>
 
                     <Col span={16}>
@@ -117,7 +112,7 @@ class HomepageDesktop extends React.Component {
 
                 </Row>
             </Content>
-            <Footer style={{ textAlign: 'center', backgroundColor:'#F5F5F5FF' }}>Songbo Hu ©2024</Footer>
+            <Footer style={{ textAlign: 'center', backgroundColor:'#F5F5F5FF' }}>Songbo Hu ©2025</Footer>
         </Layout>
         )
 

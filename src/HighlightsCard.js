@@ -24,21 +24,24 @@ class HighlightsCard extends React.Component {
                         Highlights
                     </h3>}
                 >
-                    <List.Item>
-                        [March 5th, 2025] We published <a href="https://www.jmir.org/2025/1/e68720">a scoping review</a> on NLP for public health in Africa. This review followed a publicly available <a href="https://www.medrxiv.org/content/10.1101/2024.07.02.24309815v1">protocol</a>.
 
-                    </List.Item>
+
+
+
                     <List.Item>
-                        [January 15th, 2024] We release <a href="https://github.com/cambridgeltl/e2e_tod_toolkit">DIALIGHT</a>, a toolkit for developing and evaluating multilingual task-oriented dialogue systems!
+                        <b>Office Hours:</b> Every Friday, 9:00–12:00, TR-17, English Faculty Building. Feel free to drop by with questions about the lab, assignments, or broader topics in NLP research.
                     </List.Item>
+
+
+
                     <List.Item>
-                        [December 4th, 2023] I am in Singapore 🇸🇬, for EMNLP 2023!
+                        I will be at EMNLP 2025 (Suzhou, China). Happy to meet and chat!
                     </List.Item>
+
+
                     <List.Item>
-                        [July 24th, 2023] We release <a href="https://github.com/cambridgeltl/multi3woz">Multi3WOZ</a>, a large-scale multilingual dataset for task-oriented dialogue systems.
-                    </List.Item>
-                    <List.Item>
-                        [May 1st, 2023] I am in Dubrovnik, Croatia 🇭🇷, for EACL 2023!
+                        We recently published <a href="https://www.jmir.org/2025/1/e68720">a scoping review</a> on NLP for public health in Africa. Also see our article in <a href="https://theconversation.com/ai-chatbots-can-boost-public-health-in-africa-why-language-inclusion-matters-260861">The Conversation</a>.
+
                     </List.Item>
                 </List>
             </Card>
