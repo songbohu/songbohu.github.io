@@ -79,7 +79,7 @@ class HomepageMobile extends React.Component {
                         </h3>
                     </Row>
                     <Row>
-                        <PublicationsCard/>
+                        <EducationCard/>
 
                     </Row>
 
@@ -91,7 +91,7 @@ class HomepageMobile extends React.Component {
                     </Row>
 
                     <Row>
-                        <EducationCard/>
+                        <PublicationsCard/>
                     </Row>
                     <Row>
                         <h3>

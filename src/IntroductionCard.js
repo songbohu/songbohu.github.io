@@ -57,7 +57,7 @@ class IntroductionCard extends React.Component {
 
                             Hi there! I am a research associate at the <a href="https://ltl.mmll.cam.ac.uk">Language Technology Lab</a>, <a href="https://www.cam.ac.uk">University of Cambridge</a>. I recently submitted my PhD thesis in Computation, Cognition and Language (2021–2025), supervised by Prof. <a href="https://sites.google.com/site/annakorhonen/">Anna Korhonen</a> and Dr. <a href="https://sites.google.com/site/ivanvulic/">Ivan Vulić</a>.
 
-                            I am interested in building conversational AI for real-world applications, with a particular focus on deployment in resource-constrained settings.
+                            I am interested in building conversational AI for real-world applications, with a particular focus on development and deployment in resource-constrained settings.
 
                         </Col>
 
