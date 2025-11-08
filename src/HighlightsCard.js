@@ -33,9 +33,8 @@ class HighlightsCard extends React.Component {
                     </List.Item>
 
 
-
                     <List.Item>
-                        I will be at EMNLP 2025 (Suzhou, China). Happy to meet and chat!
+                        Our paper on <a href="https://aclanthology.org/2025.emnlp-main.199/" style={{ textDecoration: "underline" }}>multilingual evaluation</a> received a SAC Highlights Award at EMNLP 2025, one of 35 papers selected among all accepted submissions.
                     </List.Item>
 
 
