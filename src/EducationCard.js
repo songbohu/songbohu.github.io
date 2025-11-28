@@ -27,7 +27,7 @@ class EducationCard extends React.Component {
                     <List.Item>
                         <b>University of Cambridge</b>
                         <br/>
-                        PhD in Computation, Cognition and Language, 2021 - current.
+                        PhD in Computation, Cognition and Language, 2021 - 2025.
                         <br/>
 
                         <a href={"https://www.girton.cam.ac.uk"}>Girton College</a>. Funded by <a href={"https://www.cambridgetrust.org"}>Cambridge Trust</a>.

@@ -39,7 +39,7 @@ class PublicationsCard extends React.Component {
 
 
                     <List.Item>
-                        <b>Songbo Hu</b>, Ivan Vulić, and Anna Korhonen. <a href="https://aclanthology.org/2025.emnlp-main.199/" style={{"textDecoration": "underline"}}>Quantifying Language Disparities in Multilingual Large Language Models</a>. EMNLP, November 2025. <b>Received a SAC Highlights Award.</b>
+                        <b>Songbo Hu</b>, Ivan Vulić, and Anna Korhonen. <a href="https://aclanthology.org/2025.emnlp-main.199/" style={{"textDecoration": "underline"}}>Quantifying Language Disparities in Multilingual Large Language Models</a>. EMNLP, November 2025. <b>SAC Highlights Award.</b>
                     </List.Item>
 
 

@@ -34,7 +34,7 @@ class HighlightsCard extends React.Component {
 
 
                     <List.Item>
-                        Our paper on <a href="https://aclanthology.org/2025.emnlp-main.199/" style={{ textDecoration: "underline" }}>multilingual evaluation</a> received a SAC Highlights Award at EMNLP 2025, one of 35 papers selected among all accepted submissions.
+                        Our paper on <a href="https://aclanthology.org/2025.emnlp-main.199/" style={{ textDecoration: "underline" }}>multilingual evaluation</a> received an SAC Highlights Award at EMNLP 2025, one of 35 papers selected among all accepted submissions.
                     </List.Item>
 
 
