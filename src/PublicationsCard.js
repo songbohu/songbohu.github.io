@@ -37,6 +37,11 @@ class PublicationsCard extends React.Component {
                 >
 
 
+                    <List.Item>
+                        <b>Songbo Hu</b>,* Yinhong Liu,* Ej Zhou,* Evgeniia Razumovskaia, Xiaobin Wang, Alexander Fraser, Ivan Vulić,** and Anna Korhonen.** <a href="" style={{"textDecoration": "underline"}}>Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking</a>. Findings of ACL, to appear.
+                    </List.Item>
+
+
 
                     <List.Item>
                         <b>Songbo Hu</b>, Ivan Vulić, and Anna Korhonen. <a href="https://aclanthology.org/2025.emnlp-main.199/" style={{"textDecoration": "underline"}}>Quantifying Language Disparities in Multilingual Large Language Models</a>. EMNLP, November 2025. <b>SAC Highlights Award.</b>
