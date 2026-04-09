@@ -28,9 +28,9 @@ class HighlightsCard extends React.Component {
 
 
 
-                    <List.Item>
-                        <b>Office Hours:</b> Every Friday, 9:00–12:00, TR-17, English Faculty Building. Feel free to drop by with questions about the lab, assignments, or broader topics in NLP research.
-                    </List.Item>
+                    {/*<List.Item>*/}
+                    {/*    <b>Office Hours:</b> Every Friday, 9:00–12:00, TR-17, English Faculty Building. Feel free to drop by with questions about the lab, assignments, or broader topics in NLP research.*/}
+                    {/*</List.Item>*/}
 
 
                     <List.Item>
