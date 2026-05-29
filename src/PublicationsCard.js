@@ -38,7 +38,7 @@ class PublicationsCard extends React.Component {
 
 
                     <List.Item>
-                        <b>Songbo Hu</b>,* Yinhong Liu,* Ej Zhou,* Evgeniia Razumovskaia, Xiaobin Wang, Alexander Fraser, Ivan Vulić,** and Anna Korhonen.** <a href="" style={{"textDecoration": "underline"}}>Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking</a>. Findings of ACL, to appear.
+                        <b>Songbo Hu</b>,* Yinhong Liu,* Ej Zhou,* Evgeniia Razumovskaia, Xiaobin Wang, Alexander Fraser, Ivan Vulić,** and Anna Korhonen.** <a href="https://arxiv.org/abs/2605.30107" style={{"textDecoration": "underline"}}>Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking</a>. Findings of ACL, to appear.
                     </List.Item>
 
 
