@@ -38,14 +38,27 @@ class PublicationsCard extends React.Component {
 
 
                     <List.Item>
-                        <b>Songbo Hu</b>,* Yinhong Liu,* Ej Zhou,* Evgeniia Razumovskaia, Xiaobin Wang, Alexander Fraser, Ivan Vulić,** and Anna Korhonen.** <a href="https://arxiv.org/abs/2605.30107" style={{"textDecoration": "underline"}}>Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking</a>. Findings of ACL, to appear.
+                        Hannah Claus, <b>Songbo Hu</b>, Emre Isik, Anna Korhonen, Kitty Liu, Marieke Meelen <a href="https://aclanthology.org/2026.findings-acl.1275/" style={{"textDecoration": "underline"}}>Revitalising Endangered Languages and Cultural Heritage through Language Technology: A Pilot Study for Dzardzongke</a>. ComputEL-9, July 2026.
+                    </List.Item>
+
+
+
+
+                    <List.Item>
+                        <b>Songbo Hu</b>,* Yinhong Liu,* Ej Zhou,* Evgeniia Razumovskaia, Xiaobin Wang, Alexander Fraser, Ivan Vulić,** and Anna Korhonen.** <a href="https://aclanthology.org/2026.findings-acl.1275/" style={{"textDecoration": "underline"}}>Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking</a>. Findings of ACL, July 2026.
                     </List.Item>
 
 
 
                     <List.Item>
+                        <b>Songbo Hu</b>. <a href="https://www.repository.cam.ac.uk/items/5c1d58cb-1bb4-40de-861e-7921ab460e37" style={{"textDecoration": "underline"}}>Towards Globally Inclusive Multilingual Dialogue Systems for Real-World Applications</a>. PhD Thesis, 2025.
+                    </List.Item>
+
+
+                    <List.Item>
                         <b>Songbo Hu</b>, Ivan Vulić, and Anna Korhonen. <a href="https://aclanthology.org/2025.emnlp-main.199/" style={{"textDecoration": "underline"}}>Quantifying Language Disparities in Multilingual Large Language Models</a>. EMNLP, November 2025. <b>SAC Highlights Award.</b>
                     </List.Item>
+
 
 
                     <List.Item>
