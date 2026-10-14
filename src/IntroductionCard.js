@@ -2,7 +2,7 @@ import React from 'react';
 import './index.css';
 import { MailOutlined, GithubOutlined, LinkedinOutlined, GoogleOutlined} from '@ant-design/icons';
 import {Row,Col, Card} from 'antd';
-import MyPhoto from "./media/photo.png"
+import MyPhoto from "./media/ride.png"
 
 class IntroductionCard extends React.Component {
 
@@ -20,12 +20,12 @@ class IntroductionCard extends React.Component {
         return(
             <Card
                 style={{width: '100%'}}
-                // cover={
-                //     <img
-                //         alt="example"
-                //         src={MyPhoto}
-                //     />
-                // }
+                cover={
+                    <img
+                        alt="example"
+                        src={MyPhoto}
+                    />
+                }
                 actions={[
                     <MailOutlined
                         onClick={()=> {
@@ -55,7 +55,7 @@ class IntroductionCard extends React.Component {
                                 Songbo Hu 胡淞博
                             </h3>
 
-                            Hi there! I am a research associate at the <a href="https://ltl.mmll.cam.ac.uk">Language Technology Lab</a>, <a href="https://www.cam.ac.uk">University of Cambridge</a>. I completed my PhD in Computation, Cognition and Language, supervised by Prof. <a href="https://sites.google.com/site/annakorhonen/">Anna Korhonen</a> and Dr. <a href="https://sites.google.com/site/ivanvulic/">Ivan Vulić</a>.
+                            Hi there! I am a research associate at the <a href="https://ltl.mmll.cam.ac.uk">Language Technology Lab</a>, <a href="https://www.cam.ac.uk">University of Cambridge</a>. I completed my PhD under the supervision of Prof. <a href="https://sites.google.com/site/annakorhonen/">Anna Korhonen</a> and Dr. <a href="https://sites.google.com/site/ivanvulic/">Ivan Vulić</a>.
 
                             I am interested in building conversational AI for real-world applications, with a particular focus on development and deployment in resource-constrained settings.
 

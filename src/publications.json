@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Revitalising Endangered Languages and Cultural Heritage through Language Technology: A Pilot Study for Dzardzongke",
+    "authors": "Hannah Claus, Songbo Hu, Emre Isik, Anna Korhonen, Kitty Liu, Marieke Meelen",
+    "url": "https://aclanthology.org/2026.computel-1.8/",
+    "venue": "ComputEL-9, July 2026.",
+    "year": "2026",
+    "award": null
+  },
+  {
+    "title": "Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking",
+    "authors": "Songbo Hu,* Yinhong Liu,* Ej Zhou,* Evgeniia Razumovskaia, Xiaobin Wang, Alexander Fraser, Ivan Vulić,** and Anna Korhonen.**",
+    "url": "https://aclanthology.org/2026.findings-acl.1275/",
+    "venue": "Findings of ACL, July 2026.",
+    "year": "2026",
+    "award": null
+  },
+  {
+    "title": "Towards Globally Inclusive Multilingual Dialogue Systems for Real-World Applications",
+    "authors": "Songbo Hu.",
+    "url": "https://www.repository.cam.ac.uk/items/5c1d58cb-1bb4-40de-861e-7921ab460e37",
+    "venue": "PhD Thesis, 2025.",
+    "year": "2025",
+    "award": null
+  },
+  {
+    "title": "Quantifying Language Disparities in Multilingual Large Language Models",
+    "authors": "Songbo Hu, Ivan Vulić, and Anna Korhonen.",
+    "url": "https://aclanthology.org/2025.emnlp-main.199/",
+    "venue": "EMNLP, November 2025.",
+    "year": "2025",
+    "award": "SAC Highlights Award"
+  },
+  {
+    "title": "Natural Language Processing Technologies for Public Health in Africa: Scoping Review",
+    "authors": "Songbo Hu,* Abigail Oppong,* Ebele Mogo, Charlotte Collins, Giulia Occhini, Anna Barford, and Anna Korhonen.",
+    "url": "https://www.jmir.org/2025/1/e68720",
+    "venue": "JMIR, 2025.",
+    "year": "2025",
+    "award": null
+  },
+  {
+    "title": "Large Language Models and the Challenge of Analyzing Discriminatory Discourse: Human-AI Synergy in Researching Hate Speech on Social Media",
+    "authors": "Petre Breazu, Miriam Schirmer, Songbo Hu, and Napoleon Katsos.",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17447143.2025.2476967",
+    "venue": "Journal of Multicultural Discourses, 2025.",
+    "year": "2025",
+    "award": null
+  },
+  {
+    "title": "Analyzing the Effect of Linguistic Instructions on Paraphrase Generation",
+    "authors": "Teemu Vahtola, Songbo Hu, Mathias Creutz, Ivan Vulić, Anna Korhonen, and Jörg Tiedemann.",
+    "url": "https://aclanthology.org/2025.nodalida-1.75/",
+    "venue": "NoDaLiDa-Baltic-HLT, March 2025.",
+    "year": "2025",
+    "award": null
+  },
+  {
+    "title": "DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models",
+    "authors": "Songbo Hu, Xiaobin Wang, Zhangdie Yuan, Anna Korhonen, and Ivan Vulić.",
+    "url": "https://aclanthology.org/2024.naacl-demo.4/",
+    "venue": "NAACL-HLT System Demonstrations, June 2024.",
+    "year": "2024",
+    "award": null
+  },
+  {
+    "title": "Reranking Overgenerated Responses for End-to-End Task-Oriented Dialogue Systems",
+    "authors": "Songbo Hu, Ivan Vulić, Fangyu Liu, and Anna Korhonen.",
+    "url": "https://aclanthology.org/2024.lrec-main.1219/",
+    "venue": "LREC-COLING, May 2024.",
+    "year": "2024",
+    "award": null
+  },
+  {
+    "title": "A Systematic Study of Performance Disparities in Multilingual Task-Oriented Dialogue Systems",
+    "authors": "Songbo Hu, Han Zhou, Zhangdie Yuan, Milan Gritta, Guchun Zhang, Ignacio Iacobacci, Anna Korhonen, and Ivan Vulić.",
+    "url": "https://aclanthology.org/2023.emnlp-main.422/",
+    "venue": "EMNLP, December 2023.",
+    "year": "2023",
+    "award": null
+  },
+  {
+    "title": "Multi3WOZ: A Multilingual, Multi-Domain, Multi-Parallel Dataset for Training and Evaluating Culturally Adapted Task-Oriented Dialog Systems",
+    "authors": "Songbo Hu,* Han Zhou,* Mete Hergul, Milan Gritta, Guchun Zhang, Ignacio Iacobacci, Ivan Vulić,** and Anna Korhonen.**",
+    "url": "https://aclanthology.org/2023.tacl-1.79/",
+    "venue": "TACL, 2023.",
+    "year": "2023",
+    "award": null
+  },
+  {
+    "title": "Can Pretrained Language Models (Yet) Reason Deductively?",
+    "authors": "Zhangdie Yuan,* Songbo Hu,* Ivan Vulić, Anna Korhonen, and Zaiqiao Meng.",
+    "url": "https://aclanthology.org/2023.eacl-main.106/",
+    "venue": "EACL, May 2023.",
+    "year": "2023",
+    "award": null
+  },
+  {
+    "title": "What does the User Want? Information Gain for Hierarchical Dialogue Policy Optimisation",
+    "authors": "Christian Geishauser, Songbo Hu, Hsien-chin Lin, Nurul Lubis, Michael Heck, Shutong Feng, Carel van Niekerk, and Milica Gašić.",
+    "url": "https://ieeexplore.ieee.org/document/9687856",
+    "venue": "IEEE ASRU, December 2021.",
+    "year": "2021",
+    "award": null
+  },
+  {
+    "title": "Domain-independent User Simulation with Transformers for Task-oriented Dialogue Systems",
+    "authors": "Hsien-chin Lin, Nurul Lubis, Songbo Hu, Carel van Niekerk, Christian Geishauser, Michael Heck, Shutong Feng, and Milica Gašić.",
+    "url": "https://aclanthology.org/2021.sigdial-1.47/",
+    "venue": "SIGdial, July 2021.",
+    "year": "2021",
+    "award": null
+  }
+]

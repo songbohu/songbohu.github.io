@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Songbo Hu — personal homepage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive academic homepage built with React. Live site: https://songbohu.github.io.
 
-## Available Scripts
+## Development
 
-In the project directory, you can run:
+Install dependencies with `npm ci`, then run `npm start`.
+For the current local preview, use `BROWSER=none PORT=3011 npm start`.
 
-### `npm start`
+## Editing
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- `src/Homepage.js`: biography, profile links, publications layout and education.
+- `src/publications.json`: publication records, ordered from newest to oldest.
+- `src/Portrait.js`: desk/cycling photo interaction and caption.
+- `src/index.css`: shared desktop and mobile styles.
+- `src/media/working-framed.png` and `src/media/cycling-bend.jpg`: the two displayed photos.
+- `public/index.html` and `public/manifest.json`: page metadata.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The portrait responds to mouse hover, touch, Enter and Space. The cycling crop is defined in CSS to retain the bend without stretching the image. Reduced-motion preferences disable the crossfade.
 
-### `npm test`
+`src/index.js` mounts `App`, which exports the responsive homepage. The older Card components and Desktop/Mobile exports are retained for reference and compatibility; the live homepage does not depend on them.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Validation
 
-### `npm run build`
+```sh
+CI=true npm test -- --watchAll=false
+npm run build
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## GitHub Pages deployment
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```sh
+npm run-script deploy
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The existing `predeploy` script creates a production build, then `gh-pages` publishes `build/` to the `gh-pages` branch of `origin` (`songbohu/songbohu.github.io`). This requires GitHub push access. GitHub Pages can take a few minutes to update.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Deployment publishes the generated site; it does not commit or push source changes to `main`. Keep source changes separately in version control. Dependencies, generated builds and local editor settings are excluded by `.gitignore`.
