@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.9a9a3169.css",
-    "main.js": "/static/js/main.9ab2bcc3.js",
+    "main.js": "/static/js/main.a3db8fd9.js",
     "static/media/cycling-bend.jpg": "/static/media/cycling-bend.c1e2ee2cb033ca689cf2.jpg",
     "static/media/working-framed.png": "/static/media/working-framed.cb0c9515fad28b1c6685.png",
     "index.html": "/index.html",
     "main.9a9a3169.css.map": "/static/css/main.9a9a3169.css.map",
-    "main.9ab2bcc3.js.map": "/static/js/main.9ab2bcc3.js.map"
+    "main.a3db8fd9.js.map": "/static/js/main.a3db8fd9.js.map"
   },
   "entrypoints": [
     "static/css/main.9a9a3169.css",
-    "static/js/main.9ab2bcc3.js"
+    "static/js/main.a3db8fd9.js"
   ]
 }
